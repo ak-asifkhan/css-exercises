@@ -1,0 +1,18 @@
+.imclass{
+    background-color: pink;
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+
+}
+#anotherID, .cooler{
+    font-size: 24px;
+}
+#oneID{
+    color: blue;
+    font-size: 36px;
+    font-weight: bold;
+}
+
+#anotherID{
+    font-weight: bold;
+    background-color: lightgreen;
+}
